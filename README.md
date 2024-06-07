@@ -1,6 +1,16 @@
 # portfolio-datascience
 Portfolio de proyectos de Data Science que incluye: Análisis Exploratorio de Datos, Machine Learning y Deep Learning implementados en Python.
 
+Machine Learning Tradicional: 
+Rent Prediction Netherlands - Implementación y evaluación de algoritmos de regresion para identificar el de mejor desempeño, luego evaluó para diferentes valores de su hiperparámetros para obtener un R2= 83.45% sobre el dataset de validación.
+
+Habilidades demostradas: Python, Pandas, Scikit-learn, Jupyter Notebook, Limpieza de Datos, Pipeline de Machine Learning , Entrenamiento y evaluación de modelos, 
+
+Exploratory Data Analysis
+World Happiness Report 2022 - EDA of World Happiness Report 2022 identifying factors that make people in a country happy.
+Skills demonstrated: Python, Matplotlib, Seaborn, Jupyter Notebook, Storytelling
+
+
 Deep Learning
 Pepper Disease Classification - Using Convolutional Neural Networks for the bacterial disease classification in bell pepper images with 100% accuracy on test dataset.
 Skills demonstrated: Python, Tensorflow, Jupyter Notebook, CNN, Deep Learning
@@ -11,9 +21,4 @@ Skills demonstrated: Python, Tensorflow, Keras, Deep Neural Networks, Jupyter No
 Missing Values Imputation using Deep Neural Network - Using Deep Neural Network for the prediction of missing values in dataset provided by Jeff Heaton (Instructor of Applications of Deep Neural Networks at Washington University).
 Skills demonstrated: Python, Data Preprocessing, Tensorflow, Keras, Deep Neural Networks, Jupyter Notebook
 
-Traditional Machine Learning
-Driver Alertness Detection - Using multiple classification algorithms to identify the best one and predict driver alertness using the best model. Random Forest Classifier yields the best accuracy of 99% on validation data.
-Skills demonstrated: Python, Pandas, Scikit-learn, Jupyter Notebook, Data Preprocessing, Machine Learning, Model Validation and Testing
-Exploratory Data Analysis
-World Happiness Report 2022 - EDA of World Happiness Report 2022 identifying factors that make people in a country happy.
-Skills demonstrated: Python, Matplotlib, Seaborn, Jupyter Notebook, Storytelling
+
