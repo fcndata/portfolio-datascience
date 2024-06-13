@@ -3,7 +3,7 @@ Portfolio de proyectos de Data Science que incluye: Análisis Exploratorio de Da
 
 [Machine Learning]([https://github.com](https://github.com/fcndata/portfolio-datascience/blob/main/Rent_Prediction_Netherlands.ipynb)):
 
-Rent Prediction Netherlands - Implementación y evaluación de algoritmos de regresion para identificar el de mejor desempeño, luego evaluó para diferentes valores de su hiperparámetros para obtener un R2= 83.45% sobre el dataset de validación.
+ML_RentPrediction - Implementación y evaluación de algoritmos de regresion para identificar el de mejor desempeño, luego evaluó para diferentes valores de su hiperparámetros para obtener un R2= 83.45% sobre el dataset de validación.
 
 *Habilidades demostradas*: Python, Pandas, Scikit-learn, Jupyter Notebook, Limpieza de Datos, Pipeline de Machine Learning , Entrenamiento y evaluación de modelos, 
 
