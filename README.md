@@ -3,13 +3,13 @@ El portfolio de proyectos de Data Science incluye trabajos en: recolección de d
 
 Machine Learning
 
-[ML_RentPrediction](https://github.com/fcndata/portfolio-datascience/blob/main/Rent_Prediction_Netherlands.ipynb]) - Implementación y evaluación de algoritmos de regresion para identificar el de mejor desempeño, luego evaluó para diferentes valores de su hiperparámetros para obtener un R2= 83.45% sobre el dataset de validación.
+[ML_RentPrediction](https://github.com/fcndata/portfolio-datascience/blob/main/Rent_Prediction_Netherlands.ipynb]) - Implementación y evaluación de algoritmos de regresion para identificar el de mejor desempeño para luego ajustar los hiperparámetros y así obtener un R2= 83.45%.
 
 *Habilidades demostradas*: Python, Pandas, Scikit-learn, Jupyter Notebook, Limpieza de Datos, Pipeline de Machine Learning , Entrenamiento y evaluación de modelos, 
 
 Análisis Exploratorio de Datos
 
-[AED_WorldHappinessReport](https://github.com/fcndata/portfolio-datascience/blob/main/AED_WorldHappinessReport.ipynb) - Basado en el "Reporte Mundial de la Felicidad" tiene como objetivo  evaluar la relevancia de las métricas que influyen en la felicidad de las personas en diferentes países, a través de un análisis visual y estadístico de dichos factores entre regiones.
+[AED_WorldHappinessReport](https://github.com/fcndata/portfolio-datascience/blob/main/AED_WorldHappinessReport.ipynb) - Basado en el "Reporte Mundial de la Felicidad" tiene como objetivo  evaluar la relevancia de las métricas que influyen en la felicidad, a través de un análisis visual y estadístico de dichos factores entre regiones.
 *Habilidades demostradas*: Python, Pandas, Matplotlib, Seaborn, Scipy, Scikit-learn, Jupyter Notebook. 
 
 Recolección de datos/webscrapping:
