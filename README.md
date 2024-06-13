@@ -9,9 +9,15 @@ Machine Learning
 
 Análisis Exploratorio de Datos
 
-AED_WorldHappinessReport - Basado en el "Reporte Mundial de la Felicidad" tiene como objetivo  evaluar la relevancia de las métricas que influyen en la felicidad de las personas en diferentes países, a través de un análisis visual y estadístico de dichos factores entre regiones.
+[AED_WorldHappinessReport](https://github.com/fcndata/portfolio-datascience/blob/main/AED_WorldHappinessReport.ipynb) - Basado en el "Reporte Mundial de la Felicidad" tiene como objetivo  evaluar la relevancia de las métricas que influyen en la felicidad de las personas en diferentes países, a través de un análisis visual y estadístico de dichos factores entre regiones.
 *Habilidades demostradas*: Python, Pandas, Matplotlib, Seaborn, Scipy, Scikit-learn, Jupyter Notebook. 
 
 Recolección de datos/webscrapping:
+
+[Scrapper_Portal](https://github.com/fcndata/Scrapper_Portal/tree/main) - El objetivo es automatizar el proceso de recolección de datos de "Portal Inmobiliario" para desarrollar modelos de Machine Learning para mercado inmobiliario.
+
+*Habilidades demostradas*: Python, Pandas, BeautifulSoup, GitHub Actions, Jupyter Notebook. 
+
+
 
 
