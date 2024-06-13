@@ -1,4 +1,4 @@
-# portfolio-datascience
+# Portfolio-datascience
 Mi portfolio de proyectos de Data Science incluye trabajos en recolección de datos/web scraping, análisis exploratorio de datos, machine learning y deep learning, todos realizados en Python.
 
 Machine Learning
